@@ -42,8 +42,19 @@
 </h2>
 
 <div align-items:"center" justify-content:"space-around">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoWildner&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoWildner&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoWildner&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoWildner&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BrunoWildner)
+![profileviews](https://komarev.com/ghpvc/?username=BrunoWildner)
+
+<h2>
+  Reach me at:
+  <a href="https://www.linkedin.com/in/brunowildner/" target="_blank"><img align="center" alt="Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunowildner/" target="_blank"><img align="center" alt="Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" target="_blank"></a>
+</h2>
+
+
+  
  
