@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1> 
+  Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+ 
+<img src="https://drive.google.com/uc?export=view&id=1GBRr5re7kuW_MpgGJj3yLN-etNQCjX6k">
 
-<!--
-**BrunoWildner/BrunoWildner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+  Here is Bruno and I'm new on Github. <br>
+  Help me to avoid getting lost here.
+</h3>
 
-Here are some ideas to get you started:
+<h3>
+  Teach me something
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
