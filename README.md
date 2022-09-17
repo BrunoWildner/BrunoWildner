@@ -10,9 +10,10 @@
   Help me to avoid getting lost here.
 </h4>
 
-<h3>
-  <a href="https://github.com/BrunoWildner/BrunoWildner/discussions/1#discussion-4400339">🎯 Teach me something 👊</a>
+<h3 align="center">
+    <a href="https://github.com/BrunoWildner/BrunoWildner/discussions/1#discussion-4400339">🎯 Teach me something 👊</a>
 </h3>
+  
 
 <h2>
   🔧 Technologies & Tools 
