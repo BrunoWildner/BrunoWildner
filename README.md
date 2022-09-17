@@ -14,9 +14,9 @@
   <a href="https://github.com/BrunoWildner/BrunoWildner/discussions/1#discussion-4400339">🎯 Teach me something 👊</a>
 </h3>
 
-<h5>
-   Technologies & Tools 🔧
-</h5>
+<h2>
+  🔧 Technologies & Tools 
+</h2>
 
 <div>
   <h6>
@@ -37,9 +37,13 @@
   </h6>
 </div>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoWildner&show_icons=true&theme=defalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoWildner&layout=compact&langs_count=7&theme=default"/>
+<h2>
+  📈 Github Stats
+</h2>
+
+<div align-items:"center" justify-content:"space-around">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoWildner&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoWildner&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
  
