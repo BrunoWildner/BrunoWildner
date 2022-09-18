@@ -63,8 +63,8 @@
 <br>
 
 <h2>
-  Reach me at:
-  <a href="https://www.linkedin.com/in/brunowildner/" target="_blank"><img align="center" alt="Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+  Reach me at:&emsp;
+  <a href="https://www.linkedin.com/in/brunowildner/" target="_blank"><img align="center" alt="Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>&emsp;
   <a href="https://github.com/BrunoWildner" target="_blank"><img align="center" alt="Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" target="_blank"></a>
 </h2>
 
