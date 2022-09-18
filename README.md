@@ -5,19 +5,25 @@
 <img src="https://drive.google.com/uc?export=view&id=1GBRr5re7kuW_MpgGJj3yLN-etNQCjX6k">
 
 <h4>
-  I'm Bruno, a newbie onboard. <br>
+  <img align="center" alt="newOnboard" height="50" width="60" src="https://c.tenor.com/x5RTiD1xzS8AAAAM/sail-waves.gif"> &emsp;I'm Bruno, a newbie onboard. 
   <br>
-  Help me to avoid getting lost here.
+  <br>
+  <img align="center" alt="newOnboard" height="50" width="60" src="https://media2.giphy.com/media/FWXpxEbWcOapq/giphy.gif?cid=790b7611120c8c0a9ee56e14706180df47ae49fe4d6974cf&rid=giphy.gif&ct=g"> &emsp;Help me to avoid getting lost here.
 </h4>
 
-<h3 align="center">
-    <a href="https://github.com/BrunoWildner/BrunoWildner/discussions/1#discussion-4400339">🎯 Teach me something 👊</a>
+<h3>
+  <img align="center" alt="soldierDoor" height="50" width="60" src="https://c.tenor.com/PUIbw7H-Tu8AAAAM/%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8%D1%86%D0%B8.gif">&emsp;
+  <a href="https://github.com/BrunoWildner/BrunoWildner/discussions/1#discussion-4400339">Teach me something</a>&emsp;
+  <img align="center" alt="openDoor" height="50" width="60" src="https://c.tenor.com/LcfGcodRLecAAAAC/door-opening-disenchantment.gif">
 </h3>
-  
+
+<br>
 
 <h2>
   🔧 Technologies & Tools 
 </h2>
+
+<br>
 
 <div>
   <h6>
@@ -38,9 +44,13 @@
   </h6>
 </div>
 
+<br>
+
 <h2>
   📈 Github Stats
 </h2>
+
+<br>
 
 <div align-items:"center" justify-content:"space-around">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoWildner&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -49,6 +59,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BrunoWildner)
 ![profileviews](https://komarev.com/ghpvc/?username=BrunoWildner)
+
+<br>
 
 <h2>
   Reach me at:
