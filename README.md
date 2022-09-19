@@ -12,7 +12,7 @@
   <a href="https://github.com/BrunoWildner/BrunoWildner/discussions/1#discussion-4400339"> teach me something</a>,
   <br>
   <br> 
- <img align="center" alt="lostJohn" height="50" width="60" src="https://c.tenor.com/XQLVLptLIBEAAAAM/maes-b-lost-in-a-field.gif">&emsp; you will help me to avoid getting lost around here 
+ <img align="center" alt="lostJohn" height="50" width="60" src="https://c.tenor.com/XQLVLptLIBEAAAAM/maes-b-lost-in-a-field.gif">&emsp;  perhaps a little tip will help me to avoid getting lost around here 
   <br>
   <br>
   <img align="center" alt="dancingJohn" height="50" width="60" src="https://c.tenor.com/UVsCknSi8V8AAAAM/chorizombi-umma.gif">&emsp;  and you may turn my GitHub learning process easier.
