@@ -5,17 +5,18 @@
 <img src="https://drive.google.com/uc?export=view&id=1GBRr5re7kuW_MpgGJj3yLN-etNQCjX6k">
 
 <h4>
-  <img align="center" alt="newOnboard" height="50" width="60" src="https://c.tenor.com/x5RTiD1xzS8AAAAM/sail-waves.gif"> &emsp;I'm Bruno, a newbie onboard. 
+  <img align="center" alt="newOnboard" height="50" width="60" src="https://c.tenor.com/x5RTiD1xzS8AAAAM/sail-waves.gif">&emsp; I'm Bruno, a newbie onboard. 
   <br>
   <br>
-  <img align="center" alt="newOnboard" height="50" width="60" src="https://media2.giphy.com/media/FWXpxEbWcOapq/giphy.gif?cid=790b7611120c8c0a9ee56e14706180df47ae49fe4d6974cf&rid=giphy.gif&ct=g"> &emsp;Help me to avoid getting lost here.
+  <img align="center" alt="openDoor" height="50" width="60" src="https://c.tenor.com/PUIbw7H-Tu8AAAAM/%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8%D1%86%D0%B8.gif">&emsp; Maybe you can
+  <a href="https://github.com/BrunoWildner/BrunoWildner/discussions/1#discussion-4400339"> teach me something</a>,
+  <br>
+  <br> 
+ <img align="center" alt="lostJohn" height="50" width="60" src="https://c.tenor.com/XQLVLptLIBEAAAAM/maes-b-lost-in-a-field.gif">&emsp; you will help me to avoid getting lost around here 
+  <br>
+  <br>
+  <img align="center" alt="dancingJohn" height="50" width="60" src="https://c.tenor.com/UVsCknSi8V8AAAAM/chorizombi-umma.gif">&emsp;  and you may turn my GitHub learning process easier.
 </h4>
-
-<h3>
-  <img align="center" alt="soldierDoor" height="50" width="60" src="https://c.tenor.com/PUIbw7H-Tu8AAAAM/%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8%D1%86%D0%B8.gif">&emsp;
-  <a href="https://github.com/BrunoWildner/BrunoWildner/discussions/1#discussion-4400339">Teach me something</a>&emsp;
-  <img align="center" alt="openDoor" height="50" width="60" src="https://c.tenor.com/LcfGcodRLecAAAAC/door-opening-disenchantment.gif">
-</h3>
 
 <br>
 
@@ -38,9 +39,10 @@
   <h6>
     Learning:&emsp;
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&emsp;
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&emsp;
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&emsp;
+    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">&emsp;
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&emsp;
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </h6>
 </div>
 
