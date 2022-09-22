@@ -8,8 +8,8 @@
   <img align="center" alt="newOnboard" height="50" width="60" src="https://c.tenor.com/x5RTiD1xzS8AAAAM/sail-waves.gif">&emsp; I'm Bruno, a newbie onboard. 
   <br>
   <br>
-  <img align="center" alt="openDoor" height="50" width="60" src="https://c.tenor.com/PUIbw7H-Tu8AAAAM/%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8%D1%86%D0%B8.gif">&emsp; Maybe you can
-  <a href="https://github.com/BrunoWildner/BrunoWildner/discussions/1#discussion-4400339"> teach me something (HERE)</a>,
+  <img align="center" alt="openDoor" height="50" width="60" src="https://c.tenor.com/PUIbw7H-Tu8AAAAM/%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8%D1%86%D0%B8.gif">&emsp; Maybe you can teach me something about the GitHub
+  <a href="https://github.com/BrunoWildner/BrunoWildner/discussions/1#discussion-4400339"> HERE</a>,
   <br>
   <br> 
  <img align="center" alt="lostJohn" height="50" width="60" src="https://c.tenor.com/XQLVLptLIBEAAAAM/maes-b-lost-in-a-field.gif">&emsp;  perhaps your little tip will help me to avoid getting lost around here 
