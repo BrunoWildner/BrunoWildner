@@ -76,8 +76,5 @@
   Thanks for visiting my GitHub profile!
 </h3>
  
-<h4>
-  Hope to see you soon!
-</h4>
-  
+
  
