@@ -1,5 +1,5 @@
 <h1> 
-  Hi There! 
+  Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
  
 <img src="https://drive.google.com/uc?export=view&id=1GBRr5re7kuW_MpgGJj3yLN-etNQCjX6k">
@@ -69,12 +69,15 @@
   <a href="https://www.linkedin.com/in/brunowildner/" target="_blank"><img align="center" alt="Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>&emsp;
   <a href="https://github.com/BrunoWildner" target="_blank"><img align="center" alt="Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" target="_blank"></a>
 </h2>
+
 <br>
+
+<h3>
+  Thanks for visiting my GitHub profile!
+</h3>
+ 
 <h4>
   Hope to see you soon!
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h4>
-
-
   
  
