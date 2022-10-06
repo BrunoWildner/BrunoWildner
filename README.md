@@ -59,9 +59,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoWildner&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BrunoWildner)
-![profileviews](https://komarev.com/ghpvc/?username=BrunoWildner)
-
 <br>
 
 <h2>
@@ -77,4 +74,6 @@
 </h3>
  
 
+
+![profileviews](https://komarev.com/ghpvc/?username=BrunoWildner)
  
